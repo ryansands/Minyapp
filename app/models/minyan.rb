@@ -1,0 +1,2 @@
+class Minyan < ApplicationRecord
+end
